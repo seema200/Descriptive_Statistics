@@ -10,13 +10,12 @@ Mean
 Median
 Mode
 
-Measures of dispersion
+Measures of dispersion: 
 Range
 Quartile/Percentile
 Interquartile Range
 Variance
 Standard Deviation
 
-Measures to describe shape of distribution
-Skewness
+Measures to describe shape of distribution: Skewness
 Kurtosis
